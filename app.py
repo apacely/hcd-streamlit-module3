@@ -258,7 +258,7 @@ st.header("5) Reflection template (copy/paste)")
 st.markdown(
     """
 **How I used ChatGPT:**  
-ChatGPT helped me take a schema‑aware Streamlit app templete and reconfigure it for my selected dataset, changing the columns and visualizations for my dataset. It also helped me adjust the UI and pre-selected sensible defaults for my dataset (BMI vs. Charges, colored by smoker), plus auto-created insight cards.
+ChatGPT helped me with fine-tuning the schema‑aware Streamlit app, offering suggestions to help reduce unnecessary features, change the columns and visualizations, set sensible defaults for insurance.csv (BMI vs Charges, color by smoker), and suggested Insight Cards to surface key comparisons immediately. GPT also helped me generate this README.md
 
 **Why these interactions are HCD‑friendly:**  
 Fewer, clearer choices (one category + one numeric range) with meaningful defaults reduce cognitive load. Immediate feedback via metrics and charts supports quick iteration and exploration.
