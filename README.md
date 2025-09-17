@@ -92,7 +92,7 @@ The app is already optimized for this dataset. Useful views to include in your w
 ## 📝 Suggested reflection
 
 **How I used ChatGPT:**  
-ChatGPT helped me take a schema‑aware Streamlit app template, change it to fit my selected dataset, change the columns and visualizations, set sensible defaults for `insurance.csv` (BMI vs Charges, color by smoker), and added Insight Cards to surface key comparisons immediately. GPT also helped me generate this README.md
+ChatGPT helped me with fine-tuning the schema‑aware Streamlit app, offering suggestions to help reduce unnecessary features, change the columns and visualizations, set sensible defaults for `insurance.csv` (BMI vs Charges, color by smoker), and suggested Insight Cards to surface key comparisons immediately. GPT also helped me generate this README.md
 
 **Why these interactions are HCD‑friendly:**  
 A single category filter and one numeric range reduce cognitive load. Smart defaults provide immediate feedback without configuration. Multiple chart types let users try different “questions” rapidly—supporting iterative, user‑driven exploration.
